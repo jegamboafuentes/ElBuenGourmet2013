@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_menu_nombre" value="name:id_menu;datatype:int" />
+	<infoitem key="UD_UltimoMenu" value="name:id_menu;datatype:int" />
+	<infoitem key="UD_Recordset1" value="name:id_detalle;datatype:int" />
+	<infoitem key="UD_ultimomenu" value="name:id_menu;datatype:int" />
+	<infoitem key="UD_ultimafecha" value="name:fecha;datatype:string" />
+</info>

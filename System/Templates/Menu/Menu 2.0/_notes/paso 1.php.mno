@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_sopas" value="name:id_plat;datatype:string,name:nombre_plat;datatype:string,name:precio;datatype:real" />
+	<infoitem key="UD_IdMenu_porFecha" value="name:id_menu;datatype:int" />
+	<infoitem key="UD_detalle_menu" value="name:id_plat;datatype:string,name:nombre_plat;datatype:string,name:id_menu;datatype:int" />
+	<infoitem key="UD_quiereplatillo" value="name:nombre_plat;datatype:string" />
+	<infoitem key="UD_especial" value="name:especial;datatype:int" />
+	<infoitem key="UD_VerSopasAct" value="name:id_plat;datatype:string,name:id_menu;datatype:int,name:nombre;datatype:string" />
+</info>

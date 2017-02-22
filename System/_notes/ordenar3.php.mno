@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Datos" value="name:fecha_ordenes;datatype:string,name:nombre;datatype:string,name:apellido;datatype:string,name:tel;datatype:string,name:direccion;datatype:string,name:cod_postal;datatype:string,name:ciudad;datatype:string" />
+	<infoitem key="UD_codigo_postal" value="name:cp;datatype:string,name:precio;datatype:real" />
+	<infoitem key="UD_datos" value="name:id_ordenes;datatype:int,name:fecha_ordenes;datatype:string,name:hora_ordenes;datatype:string,name:nombre;datatype:string,name:apellido;datatype:string,name:tel;datatype:string,name:direccion;datatype:string,name:cod_postal;datatype:string,name:ciudad;datatype:string,name:moneda;datatype:string" />
+	<infoitem key="UD_Codigo_Postal" value="name:cp;datatype:string,name:precio;datatype:real,name:descripcion;datatype:string" />
+</info>

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Orden" value="name:id_ordenes;datatype:int,name:fecha_ordenes;datatype:string,name:hora_ordenes;datatype:string,name:nombre;datatype:string,name:apellido;datatype:string,name:tel;datatype:string,name:direccion;datatype:string,name:cod_postal;datatype:string,name:ciudad;datatype:string,name:moneda;datatype:real" />
+	<infoitem key="UD_detalle_orden" value="name:id_detalleordenes;datatype:int,name:id_ordenes;datatype:int,name:id_plat;datatype:string,name:cantidad;datatype:int" />
+</info>

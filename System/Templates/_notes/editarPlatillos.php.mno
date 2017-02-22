@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_RecordsetEditarPlatillos" value="name:id_plat;datatype:string,name:nombre_plat;datatype:string,name:precio;datatype:real,name:tipo;datatype:string,name:descripcion_plat;datatype:string,name:imagen_plat;datatype:string" />
+</info>

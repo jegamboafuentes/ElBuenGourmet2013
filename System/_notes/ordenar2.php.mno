@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_idorden" value="name:id_ordenes;datatype:int" />
+	<infoitem key="UD_sopas" value="name:nombre_plat;datatype:string,name:precio;datatype:real" />
+	<infoitem key="UD_ensaldas" value="name:nombre_plat;datatype:string,name:precio;datatype:real" />
+	<infoitem key="UD_antojitos" value="name:nombre_plat;datatype:string,name:precio;datatype:real" />
+	<infoitem key="UD_guisados" value="name:nombre_plat;datatype:string,name:precio;datatype:real" />
+	<infoitem key="UD_postres" value="name:nombre_plat;datatype:string,name:precio;datatype:real" />
+</info>

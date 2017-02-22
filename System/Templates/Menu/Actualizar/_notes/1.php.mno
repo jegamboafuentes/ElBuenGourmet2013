@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_sopa" value="name:id_plat;datatype:string,name:nombre_plat;datatype:string,name:precio;datatype:real" />
+	<infoitem key="UD_SopaActual" value="name:id_detalle;datatype:int,name:id_menu;datatype:int,name:id_plat;datatype:string" />
+	<infoitem key="UD_especial" value="name:especial;datatype:int" />
+</info>

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_quiere_nombre" value="name:nombre_plat;datatype:string" />
+	<infoitem key="UD_detalle_menu" value="name:nombre_plat;datatype:string,name:precio;datatype:real" />
+</info>

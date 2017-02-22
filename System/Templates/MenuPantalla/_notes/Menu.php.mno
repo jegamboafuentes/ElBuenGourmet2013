@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_TablaComidas" value="name:nombre_plat;datatype:string,name:precio;datatype:real" />
+	<infoitem key="UD_TablaBebidas" value="name:nombre_plat;datatype:string,name:precio;datatype:real,name:tipo;datatype:string" />
+	<infoitem key="UD_Recordset1" value="name:nombre_plat;datatype:string,name:precio;datatype:real" />
+	<infoitem key="UD_TablaEnsaladas" value="name:nombre_plat;datatype:string,name:precio;datatype:real" />
+	<infoitem key="UD_TablaPostres" value="name:nombre_plat;datatype:string,name:precio;datatype:real" />
+	<infoitem key="UD_TablaOtros" value="name:nombre_plat;datatype:string,name:precio;datatype:real" />
+</info>

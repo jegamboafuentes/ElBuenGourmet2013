@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Datos" value="name:id_cliente;datatype:string,name:nombre;datatype:string,name:apellido;datatype:string,name:telefono1;datatype:string,name:telefono2;datatype:string,name:calle;datatype:string,name:no;datatype:string,name:colonia;datatype:string,name:cp;datatype:string" />
+</info>

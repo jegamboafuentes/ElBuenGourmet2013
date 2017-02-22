@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_sucursales" value="name:id_sucursal;datatype:int,name:nombre;datatype:string,name:direccion;datatype:string,name:telefono;datatype:string" />
+	<infoitem key="UD_ultimomenu" value="name:id_menu;datatype:int" />
+</info>

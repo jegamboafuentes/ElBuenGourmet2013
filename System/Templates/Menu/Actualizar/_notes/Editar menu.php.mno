@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Sopas" value="name:id_menu;datatype:int,name:id_plat;datatype:string,name:nombre;datatype:string,name:precio;datatype:real" />
+	<infoitem key="UD_Ensaladas" value="name:id_menu;datatype:int,name:id_plat;datatype:string,name:nombre;datatype:string,name:precio;datatype:real" />
+	<infoitem key="UD_Antojitos" value="name:id_menu;datatype:int,name:id_plat;datatype:string,name:nombre;datatype:string,name:precio;datatype:real" />
+	<infoitem key="UD_Guisados" value="name:id_menu;datatype:int,name:id_plat;datatype:string,name:nombre;datatype:string,name:precio;datatype:real" />
+	<infoitem key="UD_Postres" value="name:id_menu;datatype:int,name:id_plat;datatype:string,name:nombre;datatype:string,name:precio;datatype:real" />
+</info>

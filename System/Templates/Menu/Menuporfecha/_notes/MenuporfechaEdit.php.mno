@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_VerMenuHoy" value="name:id_menu;datatype:int,name:id_plat;datatype:string,name:nombre_plat;datatype:string,name:precio;datatype:real,name:tipo;datatype:string" />
+	<infoitem key="UD_verPlatillos" value="name:id_plat;datatype:string,name:nombre_plat;datatype:string,name:precio;datatype:real,name:tipo;datatype:string" />
+	<infoitem key="UD_Platillos" value="name:id_plat;datatype:string,name:nombre_plat;datatype:string,name:precio;datatype:real,name:tipo;datatype:string" />
+	<infoitem key="UD_quiereplatillo" value="name:nombre_plat;datatype:string" />
+	<infoitem key="UD_id_menu" value="name:id_menu;datatype:int" />
+</info>

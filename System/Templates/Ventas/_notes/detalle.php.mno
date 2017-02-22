@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_det" value="name:id_detalleordenes;datatype:int,name:id_ordenes;datatype:int,name:id_plat;datatype:string,name:cantidad;datatype:int" />
+</info>
